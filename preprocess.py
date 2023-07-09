@@ -185,25 +185,27 @@ def run(opt):
     seed_everything(opt.seed)
 
     extraction_path_prefix = "_reverse" if opt.extract_reverse else "_forward"
-    save_path = os.path.join(opt.save_dir + extraction_path_prefix, os.path.splitext(os.path.basename(opt.data_path))[0])
-    os.makedirs(save_path, exist_ok=True)
+
 
     model = Preprocess(device, sd_version=opt.sd_version, hf_key=None)
-    recon_image = model.extract_latents(data_path=opt.data_path,
-                                         num_steps=opt.steps,
-                                         save_path=save_path,
-                                         timesteps_to_save=timesteps_to_save,
-                                         inversion_prompt=opt.inversion_prompt,
-                                         extract_reverse=opt.extract_reverse)
-
-    T.ToPILImage()(recon_image[0]).save(os.path.join(save_path, f'recon.jpg'))
+    
+    for data_path in tqdm(opt.data_path, desc='Processing'):
+        save_path = os.path.join(opt.save_dir + extraction_path_prefix, os.path.splitext(os.path.basename(data_path))[0])
+        os.makedirs(save_path, exist_ok=True)
+        recon_image = model.extract_latents(data_path=data_path,
+                                             num_steps=opt.steps,
+                                             save_path=save_path,
+                                             timesteps_to_save=timesteps_to_save,
+                                             inversion_prompt=opt.inversion_prompt,
+                                             extract_reverse=opt.extract_reverse)
+        T.ToPILImage()(recon_image[0]).save(os.path.join(save_path, f'recon.jpg'))
 
 
 if __name__ == "__main__":
     device = 'cuda'
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data_path', type=str,
-                        default='data/horse.jpg')
+    parser.add_argument('--data_path', nargs='+', type=str,
+                        default=['data/horse.jpg'])
     parser.add_argument('--save_dir', type=str, default='latents')
     parser.add_argument('--sd_version', type=str, default='2.1', choices=['1.5', '2.0', '2.1'],
                         help="stable diffusion version")

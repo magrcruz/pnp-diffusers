@@ -1,0 +1,3 @@
+[submodule "imagic-tedbench"]
+	path = imagic-tedbench
+	url = https://github.com/magrcruz/imagic-tedbench
