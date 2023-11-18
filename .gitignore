@@ -4,3 +4,7 @@ latents_forward/
 __pycache__/
 
 condacolab_install.log
+
+done_config/
+old_config/
+PNP-results/

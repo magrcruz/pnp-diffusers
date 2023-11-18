@@ -1,0 +1,122 @@
+2023-11-17 02:19:43,889 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\apples__A_basket_of_oranges.__steps100.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 178.62 segundos
+2023-11-17 02:21:27,113 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\apples__A_basket_of_oranges.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 103.21 segundos
+2023-11-17 02:24:17,162 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\apples__A_bowl_of_apples.__steps100.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 170.03 segundos
+2023-11-17 02:26:00,543 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\apples__A_bowl_of_apples.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 103.37 segundos
+2023-11-17 02:28:48,309 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\banana_1__A_photo_of_a_peeled___steps100.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 167.75 segundos
+2023-11-17 02:30:20,882 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\banana_1__A_photo_of_a_peeled___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 92.57 segundos
+2023-11-17 02:32:54,677 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\banana_1__A_photo_of_a_rotten___steps100.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 153.79 segundos
+2023-11-17 02:35:08,799 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\banana_1__A_photo_of_a_rotten___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 134.12 segundos
+2023-11-17 02:44:32,709 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\apples__A_basket_of_oranges.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 97.14 segundos
+2023-11-17 02:47:13,449 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\apples__A_bowl_of_apples.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 100.72 segundos
+2023-11-17 02:49:50,577 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\banana_1__A_photo_of_a_peeled___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 97.12 segundos
+2023-11-17 02:52:26,965 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\banana_1__A_photo_of_a_rotten___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 96.38 segundos
+2023-11-17 02:55:06,287 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\banana_1__A_photo_of_a_sliced___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 99.30 segundos
+2023-11-17 02:57:29,502 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\banana_1__Two_bananas.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 83.20 segundos
+2023-11-17 03:00:07,665 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\bear3__A_bear_eating_a_fish__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.15 segundos
+2023-11-17 03:02:46,008 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\bear3__A_black_bear_is_walk__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.33 segundos
+2023-11-17 03:05:25,260 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\bear3__A_standing_bear.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 99.24 segundos
+2023-11-17 03:08:04,129 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\bird-g83440b9c4_1920__Two_kissing_parrots.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.85 segundos
+2023-11-17 03:10:29,313 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\bird__A_bird_eating_a_fish__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 85.18 segundos
+2023-11-17 03:12:53,362 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\bird__A_bird_looking_backw__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.05 segundos
+2023-11-17 03:15:29,996 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\bird__A_photo_of_a_bird_cl__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 96.62 segundos
+2023-11-17 03:17:54,947 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\bird__A_photo_of_a_bird_le__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.93 segundos
+2023-11-17 03:20:32,152 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\bird__A_photo_of_a_bird_sp__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 97.19 segundos
+2023-11-17 03:23:11,061 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\black_shirt__A_person_clapping_th__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.89 segundos
+2023-11-17 03:25:36,470 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\black_shirt__A_person_giving_a_th__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 85.41 segundos
+2023-11-17 03:28:14,119 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\black_shirt__A_person_in_a_greett__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 97.63 segundos
+2023-11-17 03:30:52,382 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\black_shirt__A_person_with_crosse__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.25 segundos
+2023-11-17 03:43:05,361 - INFO - Preprocesamiento: latents_forward\box, Tiempo de inversion: 672.97 segundos
+2023-11-17 03:46:31,033 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\box__A_photo_of_an_open_b__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 85.67 segundos
+2023-11-17 03:49:08,323 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\cake_1__A_photo_of_a_birthda__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 97.29 segundos
+2023-11-17 03:51:33,606 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\cat_3__A_photo_of_a_cat_wea__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 85.27 segundos
+2023-11-17 03:54:10,570 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\cat_3__A_photo_of_a_cat_yaw__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 96.94 segundos
+2023-11-17 03:56:36,113 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\cat__A_photo_of_a_cat_in___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 85.54 segundos
+2023-11-17 03:59:00,722 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\cat__A_photo_of_a_cat_wea__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.60 segundos
+2023-11-17 04:01:25,079 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\chair_1__A_knocked_down_chair__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.35 segundos
+2023-11-17 04:03:47,096 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\chair_1__A_photo_of_a_chair_s__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 82.01 segundos
+2023-11-17 04:15:58,500 - INFO - Preprocesamiento: latents_forward\chibi, Tiempo de inversion: 671.39 segundos
+2023-11-17 04:19:25,748 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\chibi__Image_of_a_cat_weari__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 87.24 segundos
+2023-11-17 04:22:03,001 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\couple_beach__A_photo_of_a_couple___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 97.24 segundos
+2023-11-17 04:24:28,791 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\dog2_standing__A_photo_of_a_breakda__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 85.77 segundos
+2023-11-17 04:26:53,515 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\dog2_standing__A_photo_of_a_dog_lay__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.72 segundos
+2023-11-17 04:29:17,936 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\dog2_standing__A_photo_of_a_jumping__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.42 segundos
+2023-11-17 04:31:54,518 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\dog2_standing__A_photo_of_a_sitting__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 96.57 segundos
+2023-11-17 04:34:19,292 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\dog2_standing__A_photo_of_a_yawning__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.77 segundos
+2023-11-17 04:46:26,106 - INFO - Preprocesamiento: latents_forward\dog_01, Tiempo de inversion: 666.80 segundos
+2023-11-17 04:49:53,139 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\dog_01__A_photo_of_a_jumping__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 87.03 segundos
+2023-11-17 04:52:30,004 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\dog_01__A_photo_of_a_sitting__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 96.86 segundos
+2023-11-17 05:04:36,448 - INFO - Preprocesamiento: latents_forward\dog_with_shirt, Tiempo de inversion: 666.43 segundos
+2023-11-17 05:08:04,626 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\dog_with_shirt__A_dog_smoking_a_ciga__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 88.17 segundos
+2023-11-17 05:10:41,390 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\door__A_door_with_a_pet_en__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 96.75 segundos
+2023-11-17 05:13:18,939 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\door__A_photo_of_an_open_d__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 97.53 segundos
+2023-11-17 05:15:43,944 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\door__A_photo_of_a_door_fo__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.99 segundos
+2023-11-17 05:18:08,185 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\drinking_horse__A_horse_raising_its___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.23 segundos
+2023-11-17 05:30:13,791 - INFO - Preprocesamiento: latents_forward\egg_tree, Tiempo de inversion: 665.58 segundos
+2023-11-17 05:33:51,850 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\egg_tree__A_cracked_egg.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.05 segundos
+2023-11-17 05:36:16,707 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\elephant__An_elephant_in_a_cir__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.84 segundos
+2023-11-17 05:38:40,766 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\elephant__A_person_riding_on_a__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.05 segundos
+2023-11-17 05:41:04,526 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\elephant__A_standing_elephant.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 83.75 segundos
+2023-11-17 05:53:10,197 - INFO - Preprocesamiento: latents_forward\empty_street, Tiempo de inversion: 665.66 segundos
+2023-11-17 05:56:39,185 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\empty_street__A_busy_congested_str__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 88.99 segundos
+2023-11-17 06:19:40,783 - INFO - Preprocesamiento: latents_forward\flamingo, Tiempo de inversion: 1321.59 segundos
+2023-11-17 06:23:07,756 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\flamingo__A_sitting_flamingo.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 86.97 segundos
+2023-11-17 06:35:14,710 - INFO - Preprocesamiento: latents_forward\giraffe, Tiempo de inversion: 666.94 segundos
+2023-11-17 06:38:41,426 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\giraffe__A_giraffe_with_a_sho__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 86.71 segundos
+2023-11-17 06:41:17,756 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\giraffe__A_photo_of_a_giraffe__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 96.33 segundos
+2023-11-17 06:43:42,374 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\giraffe__A_photo_of_a_sitting__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.61 segundos
+2023-11-17 06:55:53,968 - INFO - Preprocesamiento: latents_forward\goat_and_cat, Tiempo de inversion: 671.58 segundos
+2023-11-17 06:59:19,917 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\goat_and_cat__A_goat_and_a_cat_hug__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 85.95 segundos
+2023-11-17 07:01:44,219 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\goat_and_cat__A_goat_hits_a_cat.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.29 segundos
+2023-11-17 07:04:08,269 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\goat_and_cat__A_goat_jumping_over___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 84.04 segundos
+2023-11-17 07:06:35,122 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\goat_and_cat__A_goat_to_the_right___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 86.83 segundos
+2023-11-17 07:18:47,113 - INFO - Preprocesamiento: latents_forward\milk_cookie, Tiempo de inversion: 671.98 segundos
+2023-11-17 07:22:17,251 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\milk_cookie__A_cookie_next_to_a_g__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 90.13 segundos
+2023-11-17 07:34:23,793 - INFO - Preprocesamiento: latents_forward\new_cat_3, Tiempo de inversion: 666.53 segundos
+2023-11-17 07:37:52,241 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\new_cat_3__A_photo_of_a_cat_fac__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 88.43 segundos
+2023-11-17 07:40:17,919 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\new_cat_3__A_photo_of_a_cat_fro__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 85.67 segundos
+2023-11-17 07:42:43,600 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\new_cat_3__A_photo_of_a_jumping__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 85.67 segundos
+2023-11-17 07:45:09,350 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\new_cat_3__A_photo_of_a_sleepin__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 85.73 segundos
+2023-11-17 07:47:36,408 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\new_cat_3__A_photo_of_a_standin__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 87.05 segundos
+2023-11-17 08:05:50,595 - INFO - Preprocesamiento: latents_forward\open_book, Tiempo de inversion: 663.16 segundos
+2023-11-17 08:09:28,819 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\open_book__A_photo_of_a_closed___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.21 segundos
+2023-11-17 08:12:06,983 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\pizza1__A_half_eaten_pizza.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.15 segundos
+2023-11-17 08:14:44,143 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\pizza1__Pizza_with_pepperoni__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 97.15 segundos
+2023-11-17 08:17:22,657 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\pizza1__Pizza_with_pineapple__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.51 segundos
+2023-11-17 08:20:01,327 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\prague__A_cyclist_riding_in___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.66 segundos
+2023-11-17 08:22:27,392 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\prague__A_parade_on_a_street__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 86.06 segundos
+2023-11-17 08:25:05,422 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\prague__A_photo_of_a_coffee___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.02 segundos
+2023-11-17 08:37:09,896 - INFO - Preprocesamiento: latents_forward\red_car, Tiempo de inversion: 664.46 segundos
+2023-11-17 08:40:49,755 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\red_car__A_car_in_the_year_19__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 99.86 segundos
+2023-11-17 08:43:17,075 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\red_car__A_convertable_car.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 87.30 segundos
+2023-11-17 08:45:55,225 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\red_car__A_photo_of_a_car_in___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.14 segundos
+2023-11-17 08:48:24,319 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\red_car__A_race_car.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 89.08 segundos
+2023-11-17 08:50:50,598 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\road1__An_image_of_a_post_a__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 86.26 segundos
+2023-11-17 08:53:27,206 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\road1__A_photo_of_a_traffic__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 96.60 segundos
+2023-11-17 09:05:33,755 - INFO - Preprocesamiento: latents_forward\teddy_1, Tiempo de inversion: 666.52 segundos
+2023-11-17 09:09:01,960 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\teddy_1__A_photo_of_a_dancing__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 88.20 segundos
+2023-11-17 09:11:28,195 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\teddy_1__A_photo_of_a_standin__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 86.22 segundos
+2023-11-17 09:13:54,448 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\teddy_1__A_photo_of_a_teddy_b__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 86.23 segundos
+2023-11-17 09:16:21,036 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\teddy_1__A_teddy_bear_holding__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 86.57 segundos
+2023-11-17 09:18:59,389 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\teddy_1__A_torn_up_teddy_bear__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.35 segundos
+2023-11-17 09:35:44,578 - INFO - Preprocesamiento: latents_forward\tennis_ball, Tiempo de inversion: 666.08 segundos
+2023-11-17 09:39:36,357 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\tennis_ball__A_photo_of_a_tomato___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 111.76 segundos
+2023-11-17 09:50:45,143 - INFO - Preprocesamiento: latents_forward\tree_1, Tiempo de inversion: 668.77 segundos
+2023-11-17 09:54:27,732 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\tree_1__An_apple_tree.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 102.58 segundos
+2023-11-17 09:56:10,099 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\tree_1__A_photo_of_a_dead_tr__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 102.35 segundos
+2023-11-17 09:57:52,640 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\tree_1__A_photo_of_a_fruitfu__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 102.54 segundos
+2023-11-17 09:59:34,397 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\tree_1__A_photo_of_a_tree._T__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 101.74 segundos
+2023-11-17 10:01:15,147 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\tree_1__A_photo_of_a_willow___steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 100.74 segundos
+2023-11-17 10:02:58,493 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\two_dogs_with_checkered_shirts1__Two_dogs_growling_at__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 103.33 segundos
+2023-11-17 10:04:39,512 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\vase_01__A_photo_of_a_vase_of__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 101.02 segundos
+2023-11-17 10:06:19,435 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\vase_01__A_pot_of_flowers.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 99.92 segundos
+2023-11-17 10:07:57,559 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\vase_01__A_vase_of_flowers_fi__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 98.11 segundos
+2023-11-17 10:19:02,468 - INFO - Preprocesamiento: latents_forward\white_horse1, Tiempo de inversion: 664.89 segundos
+2023-11-17 10:22:49,818 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\white_horse1__A_snow_princess_next__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 107.35 segundos
+2023-11-17 10:24:35,952 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\white_horse1__A_white_horse_in_a_g__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 106.13 segundos
+2023-11-17 10:26:22,218 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\white_horse2__A_circus_horse.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 106.24 segundos
+2023-11-17 10:28:08,463 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\white_horse2__A_girl_riding_a_hors__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 106.23 segundos
+2023-11-17 10:29:54,838 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\white_horse2__A_horse_in_a_show_ju__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 106.36 segundos
+2023-11-17 10:31:37,899 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\white_horse2__A_jumping_horse.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 103.05 segundos
+2023-11-17 10:33:25,680 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\white_horse2__A_photo_of_a_zebra.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 107.77 segundos
+2023-11-17 10:35:12,806 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\white_horse2__A_standing_horse.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 107.12 segundos
+2023-11-17 10:36:58,521 - INFO - Archivo YAML: <_io.TextIOWrapper name='C:/Tesis/pnp-diffusers/config\\zebra__A_photo_of_a_horse.__steps50.yaml' mode='r' encoding='cp1252'>, Tiempo de edicion: 105.71 segundos
