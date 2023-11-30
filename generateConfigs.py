@@ -8,12 +8,12 @@ def create_yaml_file(json_data, n_timesteps):
     target_text = json_data['target_text']
     img_name_without_extension = os.path.splitext(img_name)[0]  # Elimina la extensión del nombre de la imagen
     yaml_filename = f"{img_name_without_extension}__{target_text[:20].replace(' ', '_')}__steps{str(n_timesteps)}.yaml"
-    yaml_path = os.path.join("C:/Tesis/pnp-diffusers/config/", yaml_filename)
+    yaml_path = os.path.join("C:/Tesis/pnp-diffusers/config/"+str(n_timesteps)+"_steps/", yaml_filename)
 
     data = {
         'seed': 1,
         'device': 'cuda',
-        'output_path': f'PNP-results/{img_name_without_extension}_{n_timesteps}',  # Añade el número de pasos al nombre de la imagen
+        'output_path': f'PNP-results/{n_timesteps}_steps/{img_name_without_extension}',  # Añade el número de pasos al nombre de la imagen
         'image_path': f'C:/Tesis/imagic-editing.github.io/tedbench/originals/{img_name}',
         'latents_path': 'latents_forward',
         'sd_version': '2.1',
@@ -32,12 +32,18 @@ def process_json_file(json_filename):
     with open(json_filename, 'r') as json_file:
         json_data_array = json.load(json_file)
 
-    for json_data in json_data_array:
-        # Crear YAML con 100 pasos en n_timesteps
-        create_yaml_file(json_data, n_timesteps=100)
+    timeSteps = [50]
 
-        # Crear YAML con 50 pasos en n_timesteps
-        create_yaml_file(json_data, n_timesteps=50)
+    for timeStep in timeSteps:
+        folder_path = "C:/Tesis/pnp-diffusers/config/"+str(timeStep)+"_steps/"
+        if not os.path.exists(folder_path):
+            os.makedirs(folder_path)
+            print(f'Se ha creado la carpeta en {folder_path}')
+        else:
+            print(f'La carpeta {folder_path} ya existe')
+
+        for json_data in json_data_array:
+            create_yaml_file(json_data, n_timesteps=timeStep)
 
 if __name__ == "__main__":
     json_filename = "C:/Tesis/imagic-editing.github.io/tedbench/input_list.json"

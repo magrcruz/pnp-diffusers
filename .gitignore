@@ -1,6 +1,7 @@
 imagic-tedbench/
 data/
 latents_forward/
+latents_forward_wo_captioning/
 __pycache__/
 
 condacolab_install.log
@@ -8,3 +9,4 @@ condacolab_install.log
 done_config/
 old_config/
 PNP-results/
+config/

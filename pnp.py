@@ -149,3 +149,5 @@ if __name__ == '__main__':
     print(config)
     pnp = PNP(config)
     pnp.run_pnp()
+
+#python pnp.py --config_path <pnp_config_path>

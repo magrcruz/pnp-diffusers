@@ -7,7 +7,7 @@ import yaml
 import logging
 
 # Configurar el sistema de registro
-logging.basicConfig(filename='tiempos_procesamiento.log', level=logging.INFO,
+logging.basicConfig(filename='tiempos_procesamiento200.log', level=logging.INFO,
                     format='%(asctime)s - %(levelname)s - %(message)s')
 
 def check_and_create_latents_folder(image_path):
@@ -40,7 +40,7 @@ def process_yaml_file(yaml_file):
         image_path = yaml_data.get('image_path', '')
 
     if image_path:
-        check_and_create_latents_folder(image_path)
+        #check_and_create_latents_folder(image_path)
 
         start_time = time.time()
         run_pnp_with_config(config_path)
@@ -53,9 +53,9 @@ def process_yaml_file(yaml_file):
         # Evitar sobrecalentamiento
         if (yaml_data.get('iterations', 0) + 1) % 5 == 0:
             print("Dejando descansar la computadora")
-            time.sleep(300)
+            time.sleep(30)
             if (yaml_data.get('iterations', 0) + 1) % 10 == 0:
-                time.sleep(600)
+                time.sleep(120)
     
 
 def main():
@@ -67,7 +67,7 @@ def main():
 
 if __name__ == "__main__":
     # Carpeta de configuración
-    config_folder = "C:/Tesis/pnp-diffusers/config"
+    config_folder = "C:/Tesis/pnp-diffusers/config/200_steps"
 
     # Ejecutar el programa principal
     main()
